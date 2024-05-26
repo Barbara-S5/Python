@@ -14,5 +14,7 @@ Th = 3
 total = TF + Th
 print(total)
 
-summa = "25"
-print("20 плюс 5 будет " + summa + "")
+first = "22"
+second = "333"
+total = first + second
+print(total)
