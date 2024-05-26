@@ -22,3 +22,10 @@ print(total)
 lol = 'хо'
 print(lol * 100)
 
+number = 100
+apples = ' яблок'
+print(str(number) + apples)
+
+one_hundred = '1000'
+five_hundred = '50052'
+print(int(one_hundred) + int(five_hundred))
