@@ -18,3 +18,7 @@ first = "22"
 second = "333"
 total = first + second
 print(total)
+
+lol = 'хо'
+print(lol * 100)
+
