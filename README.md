@@ -8,4 +8,4 @@
 
 А если хочешь глянуть на практику Питона, жми на змею, ток смотри, чтоб не укусила!
 
-[:snake:](https://github.com/Barbara-S5/Python/blob/main/first%20lessons%20of%20python.py)
+[:snake:](https://github.com/Barbara-S5/Python/blob/main/first%20lessons%20of%20python.py "S-s-s")
