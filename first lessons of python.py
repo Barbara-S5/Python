@@ -32,3 +32,8 @@ print("Привет, я " + name + ", твой " + job + "!")
 
 weather = 'облачно'
 print('На улице сейчас', weather)
+
+print("Привет, я Анфиса!")
+friends = ['Сергей', 'Соня', 'Дима', 'Алина', 'Егор']
+count = len(friends)
+print('У тебя', count, 'друзей')
