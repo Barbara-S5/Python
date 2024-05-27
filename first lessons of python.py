@@ -9,23 +9,26 @@ job = "персональный помощник"
 print("Привет, я " + name + ", твой " + job + "!")
 
 #Числовые значения без кавычек
-TF = 25
-Th = 3
-total = TF + Th
-print(total)
+#TF = 25
+#Th = 3
+#total = TF + Th
+#print(total)
 
-first = "22"
-second = "333"
-total = first + second
-print(total)
+#first = "22"
+#second = "333"
+#total = first + second
+#print(total)
 
-lol = 'хо'
-print(lol * 100)
+#lol = 'хо'
+#print(lol * 100)
 
-number = 100
-apples = ' яблок'
-print(str(number) + apples)
+#number = 100
+#apples = ' яблок'
+#print(str(number) + apples)
 
-one_hundred = '1000'
-five_hundred = '50052'
-print(int(one_hundred) + int(five_hundred))
+#one_hundred = '1000'
+#five_hundred = '50052'
+#print(int(one_hundred) + int(five_hundred))
+
+weather = 'облачно'
+print('На улице сейчас', weather)
