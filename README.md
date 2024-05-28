@@ -12,4 +12,4 @@
 
 Не укусила?!, ну тогда продоллжим. Тапай на фею, посмотрим, к чему это тебя приведёт...
 
-[:fairy:](https://github.com/Barbara-S5/Python/blob/main/second%20topic%20of%20python.py)
+[:fairy:](https://github.com/Barbara-S5/Python/blob/main/second%20topic%20of%20python.py "Пуф-ф-ф")
