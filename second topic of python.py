@@ -15,3 +15,8 @@ for music_band in bremen_musicians:
 diapozons = range(1, 5)
 for diapozon in diapozons:
     print(diapozon)
+
+for new_year in reversed(range(1,13)):
+    print(new_year)
+
+print("Ура! Новый год!")
