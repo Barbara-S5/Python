@@ -20,3 +20,11 @@ for new_year in reversed(range(1,13)):
     print(new_year)
 
 print("Ура! Новый год!")
+
+print("Саня строил дом")
+print("Первый этаж готов")
+
+for i in range(2, 10):
+    print(str(i) + " этаж выше, чем " + str(i-1))
+
+print("Дом готов")
