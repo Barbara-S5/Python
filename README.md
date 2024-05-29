@@ -10,6 +10,6 @@
 
 [:snake:](https://github.com/Barbara-S5/Python/blob/main/first%20topic%20of%20python.py "S-s-s")
 
-Не укусила?!, ну тогда продоллжим. Тапай на фею, посмотрим, к чему это тебя приведёт...
+Не укусила?!, ну тогда продолжим. Тапай на фею, посмотрим, к чему это тебя приведёт...
 
 [:fairy:](https://github.com/Barbara-S5/Python/blob/main/second%20topic%20of%20python.py "Пуф-ф-ф")
